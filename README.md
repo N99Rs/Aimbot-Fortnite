@@ -9,5 +9,5 @@ Here is a working Fortnite aimbot in AHK to run with AutoHotKey. / Voici un aimb
     
    **VIDEO 👍 **
    [https://youtu.be/bQAFj8YXLGU?si=CIzL1dRnL4UzCBkh]
-![Votre texte de paragraphe](https://github.com/N99Rs/Aimbot-Fortnite/assets/105391115/14088682-e306-4e93-9e59-4a639ab3b1c9A
+
 
